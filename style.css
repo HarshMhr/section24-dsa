@@ -38,7 +38,6 @@ nav{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-
  
     font-size: 1.2rem;
     line-height: 2rem;
@@ -60,10 +59,9 @@ nav{
 .list_of_vid li{
     width: 3;
     border-bottom: 1px solid rgb(0, 0, 0);
-    padding-top: 1px;
-    padding-bottom: 2px;
+    padding-top: 4px;
+    padding-bottom: 6px;
     margin-left: 2rem;
-    font-size: 0.7rem;
 }
 
 
